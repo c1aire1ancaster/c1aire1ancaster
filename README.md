@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, my name is Claire!
 ==============================================================================================================================
 
-### Full stack Software Developer
+## Full stack Software Developer
 
 Having just completed a 13-week full stack software engineering bootcamp with Northcoders and loved every moment of it. I couldn't be more excited to get stuck into building more new cool stuff.
 
@@ -10,7 +10,38 @@ Having just completed a 13-week full stack software engineering bootcamp with No
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairenlancaster/)
 *   🧠 I'm learning React Native, Expo, Tailwind and Firebase by building a mobile app.
 
-### Skills 
+
+## Skills 
+
+### Programming Languages
+- Javascript
+- SQL
+- HTML5 (semantic)
+- CSS
+
+### Frameworks and Libraries
+- Node.js
+- Express
+- PostgreSQL
+- React
+- Next.js
+- React Native
+- Expo
+- Tailwind
+
+### Other Tools
+- Jest
+- Supertest
+- Github
+- Firebase
+
+### Design
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
+- Infinity Design
+- Infinity Photo
+
 ![claire-lancaster_github-banner](https://user-images.githubusercontent.com/113623150/230410480-b50c025b-6cf1-4a63-b6f8-326756665c94.png)
     
 ### Socials                 

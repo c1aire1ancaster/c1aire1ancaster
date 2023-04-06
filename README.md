@@ -5,25 +5,25 @@
 
 Having just completed a 13-week full stack software engineering bootcamp with Northcoders and loved every moment of it. I couldn't be more excited to get stuck into building more new cool stuff.
 
-*   😄 Pronouns: she/her
+*   😄 Pronouns: she/her.
 *   🌍 I'm based in Manchester.
-*   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairenlancaster/)
+*   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairenlancaster/).
 *   🧠 I'm learning React Native, Expo, Tailwind and Firebase by building a mobile app.
 
 
 ## Skills 
 
 ### 👩🏽‍💻 Programming Languages
-Javascript, SQL, HTML5 (semantic), CSS
+Javascript, SQL, HTML5 (semantic), CSS.
 
 ### 📚 Frameworks and Libraries
-Node.js, Express, PostgreSQL, React, Next.js, React Native, Expo, Tailwind
+Node.js, Express, PostgreSQL, React, Next.js, React Native, Expo, Tailwind.
 
 ### 🧰 Other Tools
-Jest, Supertest, Github, Firebase
+Jest, Supertest, Github, Firebase.
 
 ### 🎨 Design
-Adobe Photoshop, Adobe Illustrator, Figma, Infinity Design, Infinity Photo
+Adobe Photoshop, Adobe Illustrator, Figma, Infinity Design, Infinity Photo.
 
 ![claire-lancaster_github-banner](https://user-images.githubusercontent.com/113623150/230410480-b50c025b-6cf1-4a63-b6f8-326756665c94.png)
     

@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, my name is Claire!
 ==============================================================================================================================
 
-#Full stack Software Developer
+# Full stack Software Developer
 
 Having just completed a 13-week full stack software engineering bootcamp with Northcoders and loved every moment of it. I couldn't be more excited to get stuck into building more new cool stuff.
 

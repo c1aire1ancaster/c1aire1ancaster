@@ -10,7 +10,7 @@ Having just completed a 13-week full stack software engineering bootcamp with No
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clairenlancaster/).
 *   🚀 I'm currently working on my portfolio website and in doing so...
 *   🧠 I'm learning Next.js 13, Framer Motion and Wagtail (as a headless CMS).
-*   🌱 I’m also swotting up on data structure and alogrithms.
+*   🤓 I’m also swotting up on data structure and alogrithms.
 
 
 

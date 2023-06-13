@@ -3,7 +3,7 @@
 
 ## Full stack Software Developer
 
-Having just completed a 13-week full stack software engineering bootcamp with Northcoders and loved every moment of it. I couldn't be more excited to get stuck into building more new cool stuff.
+Having just completed a 13-week full stack software engineering bootcamp with Northcoders (loving every moment of it), I couldn't be more excited to get stuck into building more new cool stuff.
 
 *   😄 Pronouns: she/her.
 *   🌍 I'm currently based in Manchester but I'm often on the move.

@@ -26,7 +26,7 @@ Node.js, Express, PostgreSQL, React, Next.js, React Native, Expo, Tailwind.
 Jest, Supertest, Github, Firebase.
 
 ### 🎨 Design
-Adobe Photoshop, Adobe Illustrator, Figma, Infinity Design, Infinity Photo.
+Adobe Photoshop, Adobe Illustrator, Figma, Framer, Infinity Design, Infinity Photo.
 
 ![claire-lancaster_github-banner](https://user-images.githubusercontent.com/113623150/230410480-b50c025b-6cf1-4a63-b6f8-326756665c94.png)
     
